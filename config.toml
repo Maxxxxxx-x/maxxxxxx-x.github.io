@@ -1,0 +1,45 @@
+baseURL = "https://maxxxxxx-x.github.io/"
+languageCode = "en-us"
+title = "V3RY G0OD B10G"
+theme = "PaperMod"
+buildDrafts = false 
+
+[[menu.main]]
+identifier="tags"
+name="tags"
+url="/tags"
+weight=10
+
+[[menu.main]]
+identifier="categories"
+name="Catergories"
+url="/categories/"
+weight=20
+
+
+[[menu.main]]
+identifier="archives"
+name="Archives"
+url="/archives/"
+weight=30
+
+[params.profileMode.buttons]
+
+enabled=true
+title="Sleep"
+subtitle="no sleep haha"
+imageUrl="img/AuraGX.jpg"
+imageWidth=120
+imageHeight=120
+imageTitle="culprit"
+url="https://www.youtube.com/watch?v=VDrwssKZPaw&list=PLLE5HH1T5aEd32_2krUGUQQ_Fv2Cs2UUb&index=3"
+
+
+[params]
+ShowBreadCrumbs=true
+ShowReadingTime=true
+ShowShareButtons=true
+ShowPostNavLinks=true
+
+[params.cover]
+linkFullImages=true
