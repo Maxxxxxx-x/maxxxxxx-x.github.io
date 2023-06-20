@@ -1,0 +1,11 @@
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "bar1"]
+	branch = main
+[submodule "themes/PaperModX"]
+	path = themes/PaperModX
+	url = https://github.com/reorx/hugo-PaperModX.git
+[submodule "hugo-PaperMod"]
+	path = hugo-PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
