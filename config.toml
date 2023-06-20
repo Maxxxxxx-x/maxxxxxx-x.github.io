@@ -23,17 +23,15 @@ name="Archives"
 url="/archives/"
 weight=30
 
-[params.profileMode.buttons]
+[params.profileMode]
 
 enabled=true
-title="Sleep"
-subtitle="no sleep haha"
+title="Blog work yes?"
+subtitle="pls work me want to play siege"
 imageUrl="img/AuraGX.jpg"
 imageWidth=120
 imageHeight=120
 imageTitle="culprit"
-url="https://www.youtube.com/watch?v=VDrwssKZPaw&list=PLLE5HH1T5aEd32_2krUGUQQ_Fv2Cs2UUb&index=3"
-
 
 [params]
 ShowBreadCrumbs=true
